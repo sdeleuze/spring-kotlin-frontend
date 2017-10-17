@@ -3,6 +3,7 @@ pluginManagement {
 	repositories {
 		gradlePluginPortal()
 		maven { url "https://jcenter.bintray.com/" }
+		maven { url "https://repo1.maven.org/maven2" }
 		maven { url "https://repo.spring.io/milestone" }
 	}
 	resolutionStrategy {
